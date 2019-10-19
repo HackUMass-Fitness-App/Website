@@ -44,6 +44,9 @@
 .slogan{
   text-align: center;
 }
+#leftcollumn{
+
+}
 #about{
   display: table-cell;
   background-color: white;
@@ -57,6 +60,6 @@
   padding: 100px;
   align-self: center;
   border: 50px;
-  background-color: #d3d3de;
+  background-color: #e5e5e5;
   border-radius: 15px;
 }
