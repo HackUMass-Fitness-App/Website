@@ -1,12 +1,12 @@
 /*!
  * Start Bootstrap - Grayscale v5.0.9 (https://startbootstrap.com/template-overviews/grayscale)
- * Copyright 2013-2019 Start Bootstrap
+ * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
  */
 
 #mainNav {
   min-height: 56px;
-  background-color: #fff;
+  background-color: #c45f00;
 }
 
 #mainNav .navbar-toggler {
@@ -47,21 +47,21 @@
   }
   #mainNav .navbar-brand {
     padding: .5rem 0;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(196, 95, 0, 0.5);
   }
   #mainNav .nav-link {
     transition: none;
     padding: 2rem 1.5rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(196, 95, 0, 0.5);
   }
   #mainNav .nav-link:hover {
-    color: rgba(255, 255, 255, 0.75);
+    color: rgba(196, 95, 0, 0.75);
   }
   #mainNav .nav-link:active {
     color: white;
   }
   #mainNav.navbar-shrink {
-    background-color: #fff;
+    background-color: #c45f00;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #161616;
@@ -136,7 +136,7 @@
 }
 
 .btn {
-  box-shadow: 0 0.1875rem 0.1875rem 0 rgb(255,165,0) !important;
+  box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
   font-family: 'Varela Round';
   font-size: 80%;
@@ -252,18 +252,18 @@
   text-align: center;
   height: 3rem;
   width: 3rem;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(196, 95, 0, 0.1);
   border-radius: 100%;
   line-height: 3rem;
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(196, 95, 0, 0.3);
 }
 
 .contact-section .social a:hover {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(196, 95, 0, 0.5);
 }
 
 .contact-section .social a:active {
-  color: #fff;
+  color: #c45f00;
 }
 
 body {
@@ -289,7 +289,7 @@ a:focus, a:hover {
 }
 
 .text-primary {
-  color: #c45f00 !important;
+  color: #64a19d !important;
 }
 
 footer {
